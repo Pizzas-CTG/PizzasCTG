@@ -1,0 +1,46 @@
+[
+    {
+      "precio": 20000,
+      "id": 1,
+      "title": "Pizza de peperoni",
+      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
+      
+    },
+    {
+      "precio": 18000, 
+      "id": 2,
+      "title": "Pizza de piña",
+      "thumbnailUrl": "https://ebdj.es/wp-content/uploads/2016/09/slice_PT_Ham-pineapple.png"
+      
+
+     
+    },
+    {
+      "precio": 25000,
+      "id": 3,
+      "title": "Pizza Triple queso",
+      "thumbnailUrl": "https://pe.littlecaesars.com/static/1600451241-cl-pizza-cheese.png"
+      
+    },
+    {
+      "precio": 25000,
+      "id": 4,
+      "title": "Pizza vegetariana",
+      "thumbnailUrl": "https://s3-eu-west-1.amazonaws.com/straus/media/products2/1422.png"
+      
+    },
+    {
+      "precio": 24000,
+      "id": 5,
+      "title": "Pizza de champiñones",
+      "thumbnailUrl": "https://i.pinimg.com/originals/6c/61/a0/6c61a06839ad8805432cd943184c60af.png"
+     
+    },
+    {
+      "precio": 40000,
+      "id": 6,
+      "title": "Lasagna",
+      "thumbnailUrl": "https://lh3.googleusercontent.com/proxy/mrryfcaLbZm6vqOA7rhFb1RBnHveWwjgddEJXLc73kBJqasjwrLvKoakfOiAGbTmVdkcKesmM7ZnwXIRo9icDIZDTjSvRNNhCIqZnivuB8QLSvyJpgCuPpvHaa1NYnqb"
+      
+    }
+  ]
