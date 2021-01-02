@@ -2,17 +2,11 @@
     {
       "precio": 20000,
       "id": 1,
-      "title": "Pizza de peperoni",
+      "title": "Pizza de peperoni personal",
       "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
       
     },
-      {
-      "precio": 404040,
-      "id": 1,
-      "title": "si",
-      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
-      
-    },
+     
     {
       "precio": 18000, 
       "id": 2,
@@ -48,6 +42,13 @@
       "id": 6,
       "title": " pizza de hawaiana",
       "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
+      
+    },
+     {
+      "precio": 40000,
+      "id": 7,
+      "title": "si",
+      "thumbnailUrl": "https://i0.wp.com/tap.fremontmotors.com/wp-content/uploads/2017/07/def.jpg?fit=2048%2C1204&ssl=1"
       
     }
   ]
