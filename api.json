@@ -1,17 +1,17 @@
 [
     {
-      "precio": 20000,
+      "precio": 10000,
       "id": 1,
-      "title": "Pizza de peperoni personal",
-      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
+      "title": "Pizza jamon y queso  <span style="color:red;">personal</span>",
+      "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
     },
      
     {
       "precio": 18000, 
       "id": 2,
-      "title": "Pizza de salami",
-      "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
+      "title": "Pizza jamon y queso <span style="color:red;">mediana</span>",
+      "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
 
      
