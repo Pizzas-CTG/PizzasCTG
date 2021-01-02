@@ -10,7 +10,7 @@
     {
       "precio": 18000, 
       "id": 2,
-      "title": "Pizza jamon y queso <span style="color:red;">mediana</span>",
+      "title": "Pizza jamon y queso <span style="color:blue;">mediana</span>",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
 
