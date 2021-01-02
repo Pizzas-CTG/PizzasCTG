@@ -115,25 +115,17 @@
       
     },
     {
-      "precio": 15000,
-      "id": 17,
-      "title": "Pizza de carne personal",
-      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
-      
-    },
-     {
       "precio": 25000,
-      "id": 18,
+      "id": 17,
       "title": "Pizza de carne mediana",
       "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
     },
-    {
+     {
       "precio": 32000,
-      "id": 19,
+      "id": 18,
       "title": "Pizza de carne grande",
       "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
     }
-    
   ]
