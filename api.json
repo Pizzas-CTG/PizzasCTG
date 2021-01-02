@@ -8,9 +8,9 @@
     },
      
     {
-      "precio": 18000, 
+      "precio": 19000, 
       "id": 2,
-      "title": "Pizza jamon y queso medianaW",
+      "title": "Pizza jamon y queso mediana",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
 
@@ -19,36 +19,121 @@
     {
       "precio": 25000,
       "id": 3,
-      "title": "Pizza Jamon y queso",
+      "title": "Pizza Jamon y queso grande",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
     },
     {
-      "precio": 25000,
+      "precio": 11000,
       "id": 4,
-      "title": "Pizza tres carnes",
-      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
+      "title": "Hawaiana personal",
+      "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
       
     },
     {
-      "precio": 24000,
+      "precio": 20000,
       "id": 5,
-      "title": "pizza de pollo",
-      "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
+      "title": "Hawaiana mediana",
+      "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
      
     },
     {
-      "precio": 40000,
+      "precio": 26000,
       "id": 6,
-      "title": " pizza de hawaiana",
+      "title": "Hawaiana grande",
       "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
       
     },
      {
-      "precio": 40000,
+      "precio": 12000,
       "id": 7,
-      "title": "si",
-      "thumbnailUrl": "https://i0.wp.com/tap.fremontmotors.com/wp-content/uploads/2017/07/def.jpg?fit=2048%2C1204&ssl=1"
+      "title": "Pizza de pollo personal",
+      "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
+      
+    },
+    {
+      "precio": 22000,
+      "id": 8,
+      "title": "Pizza de pollo personal",
+      "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
+      
+    },
+    {
+      "precio": 28000,
+      "id": 9,
+      "title": "Pizza de pollo personal",
+      "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
+      
+    },
+    {
+      "precio": 13000,
+      "id": 10,
+      "title": "Pizza de salami personal",
+      "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
+      
+    },
+     {
+      "precio": 22000,
+      "id": 11,
+      "title": "Pizza de salami mediana",
+      "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
+      
+    },
+     {
+      "precio": 28000,
+      "id": 12,
+      "title": "Pizza de salami grande",
+      "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
+      
+    },
+     {
+      "precio": 13000,
+      "id": 13,
+      "title": "Pizza de peperoni personal",
+      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
+      
+    },
+     {
+      "precio": 22000,
+      "id": 14,
+      "title": "Pizza de peperoni mediana",
+      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
+      
+    },
+     {
+      "precio": 28000,
+      "id": 15,
+      "title": "Pizza de peperoni grande",
+      "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
+      
+    },
+    {
+      "precio": 15000,
+      "id": 16,
+      "title": "Pizza de carne personal",
+      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
+      
+    },
+    {
+      "precio": 15000,
+      "id": 17,
+      "title": "Pizza de carne personal",
+      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
+      
+    },
+     {
+      "precio": 25000,
+      "id": 18,
+      "title": "Pizza de carne mediana",
+      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
+      
+    },
+    {
+      "precio": 32000,
+      "id": 19,
+      "title": "Pizza de carne grande",
+      "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
     }
+    
   ]
