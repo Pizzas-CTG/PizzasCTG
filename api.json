@@ -54,14 +54,14 @@
     {
       "precio": 22000,
       "id": 8,
-      "title": "Pizza de pollo personal",
+      "title": "Pizza de pollo mediana",
       "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
       
     },
     {
       "precio": 28000,
       "id": 9,
-      "title": "Pizza de pollo personal",
+      "title": "Pizza de pollo grande",
       "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
       
     },
