@@ -8,7 +8,7 @@
     },
     {
       "precio": 10000,
-      "id": 1,
+      "id": 2,
       "title": "Pizza jamon y queso personal",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
@@ -16,7 +16,7 @@
      
     {
       "precio": 19000, 
-      "id": 2,
+      "id": 3,
       "title": "Pizza jamon y queso mediana",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
@@ -25,112 +25,112 @@
     },
     {
       "precio": 25000,
-      "id": 3,
+      "id": 4,
       "title": "Pizza Jamon y queso grande",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
     },
     {
       "precio": 11000,
-      "id": 4,
+      "id": 5,
       "title": "Hawaiana personal",
       "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
       
     },
     {
       "precio": 20000,
-      "id": 5,
+      "id": 6,
       "title": "Hawaiana mediana",
       "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
      
     },
     {
       "precio": 26000,
-      "id": 6,
+      "id": 7,
       "title": "Hawaiana grande",
       "thumbnailUrl": "https://pizzeriavittorio.com/wp-content/uploads/2013/12/hawaiana.png"
       
     },
      {
       "precio": 12000,
-      "id": 7,
+      "id": 8,
       "title": "Pizza de pollo personal",
       "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
       
     },
     {
       "precio": 22000,
-      "id": 8,
+      "id": 9,
       "title": "Pizza de pollo mediana",
       "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
       
     },
     {
       "precio": 28000,
-      "id": 9,
+      "id": 10,
       "title": "Pizza de pollo grande",
       "thumbnailUrl": "https://vivaoss.cl/images/pizzapollo.png"
       
     },
     {
       "precio": 13000,
-      "id": 10,
+      "id": 11,
       "title": "Pizza de salami personal",
       "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
       
     },
      {
       "precio": 22000,
-      "id": 11,
+      "id": 12,
       "title": "Pizza de salami mediana",
       "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
       
     },
      {
       "precio": 28000,
-      "id": 12,
+      "id": 13,
       "title": "Pizza de salami grande",
       "thumbnailUrl": "https://pngimage.net/wp-content/uploads/2018/06/pizza-salami-png-1.png"
       
     },
      {
       "precio": 13000,
-      "id": 13,
+      "id": 14,
       "title": "Pizza de peperoni personal",
       "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
       
     },
      {
       "precio": 22000,
-      "id": 14,
+      "id": 15,
       "title": "Pizza de peperoni mediana",
       "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
       
     },
      {
       "precio": 28000,
-      "id": 15,
+      "id": 16,
       "title": "Pizza de peperoni grande",
       "thumbnailUrl": "https://www.pngkey.com/png/full/2-25804_pepperoni-pizza-png-transparent-image-pepperoni-pizza-with.png"
       
     },
     {
       "precio": 15000,
-      "id": 16,
+      "id": 17,
       "title": "Pizza de carne personal",
       "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
     },
     {
       "precio": 25000,
-      "id": 17,
+      "id": 18,
       "title": "Pizza de carne mediana",
       "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
     },
      {
       "precio": 32000,
-      "id": 18,
+      "id": 19,
       "title": "Pizza de carne grande",
       "thumbnailUrl": "https://images.telepizza.com/vol/cl/images/content/productos/piba_c.png"
       
