@@ -2,6 +2,13 @@
     {
       "precio": 10000,
       "id": 1,
+      "title": "Pizza jamon y queso personal + gaseosa",
+      "thumbnailUrl": "https://raw.githubusercontent.com/Pizzas-CTG/PizzasCTG/master/WhatsApp%20Image%202021-01-06%20at%201.04.07%20PM.jpeg"
+      
+    },
+    {
+      "precio": 10000,
+      "id": 1,
       "title": "Pizza jamon y queso personal",
       "thumbnailUrl": "https://images.pizzahut.services/vol/phco/images/content/productos/pjam_c.png"
       
